@@ -1,5 +1,5 @@
 
--           👋 Hi, I’m Syed Absul Ahad
+-             Hi, I’m Syed Absul Ahad   👋 
  ............  A self-taught programmer................
 
 - 🌱 I’m currently learning Flutter,Dart
