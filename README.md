@@ -1,6 +1,6 @@
 
 -             Hi, I’m Syed Absul Ahad   👋 
- ............  A self-taught programmer................
+
 
 - 🌱 I’m currently learning Flutter,Dart
 - 📫 How to reach me syedahad921@gmail.com
